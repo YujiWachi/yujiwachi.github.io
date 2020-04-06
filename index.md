@@ -6,7 +6,7 @@ On Github, I'm going to upload some codes of test site, service and product.
 
 ## My Skills
 I'm good at making web-site and operate web-sites, mainly using HTML, CSS3, PHP, JavaScript. br
-One of my works(Wordpress): (https://risonojibun.com/) 
+One of my works(Wordpress): リソウノジブン(https://risonojibun.com/) 、健康水生活(https://water-server-life.com/) 
 
 For Japanese
 もしご興味があれば、ブログも運営しているので訪れてみてください。
